@@ -10,7 +10,7 @@ const chalk = require('chalk')
 global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
-global.autred = false
+global.autred = true
 //—————「 Set Random Image Menu 」—————//
 //gausah di apa² in!
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -20,14 +20,14 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCeYAl_fba4MZSVULOXN6oqQ'
-global.ig = 'https://www.instagram.com/voltinfinite'
-global.mygc = 'https://chat.whatsapp.com/L7Gdc0JTfpCHGSB5umyUxl'
-global.myweb = 'https://youtube.com/playlist?list=PLfnx8zXCmgN0FtxAZDhJMo-cHJozuvZGz'
-global.linkgrupss = "   https://chat.whatsapp.com/L7Gdc0JTfpCHGSB5umyUxl"
+global.youtube = 'https://www.instagram.com/Shintyaa_'
+global.ig = 'https://www.instagram.com/Shintyaa_'
+global.mygc = 'https://www.instagram.com/Shintyaa_'
+global.myweb = 'https://www.instagram.com/Shintyaa_'
+global.linkgrupss = "   https://www.instagram.com/Shintyaa_"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
 global.linkun = 'mailto:support@whatsapp.com?subject=Account%20Locked&body=Good%20Afternoon%20I%20Have%20A%20Problem%20Account%20Is%20Locked,%20I%20Spam%20Nothing%20But%20My%20Account%20Suddenly%20Locked,%20Please%20Reactivate%20This%20Number:%20[+62xxxxxx]'
-global.email = 'freegodsteam@gmail.com'
+global.email = 'Shintya@gmail.com'
 global.ntidel = ['120363043965529911@g.us']
 global.wlcm = []
 global.wlcmm = []
@@ -40,16 +40,16 @@ global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = ' NOPANN!' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = '[⫹⫺ - ᴠᴏʟᴛ ɪɴғɪɴɪᴛᴇ ダフ️]' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'ᴠᴏʟᴛ ɪɴғɪɴɪᴛᴇϟ' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Shintyaa!' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = '[⫹⫺ - 𝐒𝐇𝐈𝐍𝐓𝐘𝐀 𝐄𝐑𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃  ダフ️]' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Sʜɪɴᴛʏᴀ ɪɴғɪɴɪᴛᴇϟ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['62882110909971']
-global.premium = ['62882110909971']
-global.packname = 'ᴠᴏʟᴛ ɪɴғɪɴɪᴛᴇ ϟ'
-global.ownerr = ['ᴠᴏʟᴛ ɪɴғɪɴɪᴛᴇ ダフ️']
-global.author = '[⫹⫺ - 㑒 𝐏𝐚𝐤 - 𝐓𝐳𝐲 ϟ〽️]'
+global.owner = ['6283112471048']
+global.premium = ['6283112471048']
+global.packname = 'Sʜɪɴᴛʏᴀ ɪɴғɪɴɪᴛᴇ ϟ'
+global.ownerr = ['Sʜɪɴᴛʏᴀ ɪɴғɪɴɪᴛᴇ ダフ️']
+global.author = '[⫹⫺ - 㑒 𝐒𝐡𝐧𝐧𝐭𝐲𝐚 - 𝐓𝐳𝐲 ϟ〽️]'
 global.sessionName = './sessionye/paktzy'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
